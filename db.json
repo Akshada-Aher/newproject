@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "nn",
+      "password": "kk",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "student": [
+    {
+      "username": "akshay",
+      "password": "aher",
+      "gender": "male",
+      "id": "rwfJbPM"
+    },
+    {
+      "username": "akshu",
+      "password": "124",
+      "gender": "female",
+      "id": "cFabamK"
+    },
+    {
+      "username": "aniket",
+      "password": "123",
+      "gender": "male",
+      "id": "7cwoz9l"
+    }
+  ]
+}
